@@ -3,6 +3,15 @@
 <h1 align="center">Hi 👋, I'm Thirunavukkarasu E</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
+- 🔭 I’m currently working on **React**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Thirunavukkarasu-developer](https://github.com/Thirunavukkarasu-developer)
+
+- 💬 Ask me about **React,Mongodb and Postgres**
+
+- 📫 How to reach me **thiruna.developer@gmail.com**
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thirunavukkarasu-e-7178111ba) 
 
