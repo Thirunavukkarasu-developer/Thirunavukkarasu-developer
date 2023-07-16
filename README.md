@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=thirunavukkarasu-developer&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <h1 align="center">Hi 👋, I'm Thirunavukkarasu E</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 - 🔭 I’m currently working on **React**
 
