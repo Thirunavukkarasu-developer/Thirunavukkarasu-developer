@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Thirunavukkarasu-developer](https://github.com/Thirunavukkarasu-developer)
 
-- 💬 Ask me about **React,Mongodb and Postgres**
+- 💬 Ask me about **React | Next.js | Tailwind CSS | MongoDB | PostgreSQL | Node.js**
 
 - 📫 How to reach me **thiruna.developer@gmail.com**
 
