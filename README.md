@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Thirunavukkarasu E</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **React**, **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Thirunavukkarasu-developer](https://github.com/Thirunavukkarasu-developer)
 
