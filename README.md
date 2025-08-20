@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Thirunavukkarasu E</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on **React**, **Next.js**
+- 🔭 I’m currently working on **React**, **Next.js**, **Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Thirunavukkarasu-developer](https://github.com/Thirunavukkarasu-developer)
 
-- 💬 Ask me about **React | Next.js | Tailwind CSS | MongoDB | PostgreSQL | Node.js**
+- 💬 Ask me about **React | Angular | Next.js | Tailwind CSS | MongoDB | PostgreSQL | Node.js**
 
 - 📫 How to reach me **thiruna.developer@gmail.com**
 
